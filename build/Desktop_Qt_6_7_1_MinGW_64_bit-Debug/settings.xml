@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+    <Temperature value="110" unit="0"/>
+    <Pressure value="100000" unit="1"/>
+</Settings>

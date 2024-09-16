@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/power-button.png</file>
+        <file>img/minus-sign-a-line-horizontal-position_32320.png</file>
+        <file>img/plus-sign_32339.png</file>
+        <file>img/down.png</file>
+        <file>img/up.png</file>
+        <file>img/menu.png</file>
+        <file>img/sleep-mode_107753.png</file>
+        <file>img/power_162095.png</file>
+        <file>img/conder2.png</file>
+        <file>img/conder3.png</file>
+        <file>img/conder.png</file>
+    </qresource>
+</RCC>
